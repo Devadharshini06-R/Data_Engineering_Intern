@@ -20,7 +20,7 @@ Matplotlib/Seaborn/Plotly: Does the plots like bar charts, histograms, and heatm
 
 Jupyter Notebook: For exploration, documentation, and presentation.
 
-###Data Handling and Storage:
+### Data Handling and Storage:
 
 Excel or CSV Files: To store and retrieve the dataset.
 
@@ -126,13 +126,6 @@ These libraries provide flexibility and personalization in presenting insights.
    - Compile findings into a report using Jupyter Notebooks or presentation software.
    - Include all visualizations, explanations, and actionable insights.
 
-**Skills Practiced:**
-- Visual storytelling.
-- Compiling technical results for non-technical stakeholders.
-
-**What You'll Learn:**
-- Creating impactful visuals.
-- Reporting findings in a structured format.
 
 ### **How to Finish the Task**
 1. **Start with Level 1:** Understand the dataset and its structure before diving deeper.
