@@ -14,8 +14,6 @@ Important Libraries:
 
 Pandas: Loads, cleans, and manipulates the data.
 
-NumPy: Does numerical calculations and operations.
-
 Matplotlib/Seaborn/Plotly: Does the plots like bar charts, histograms, and heatmaps.
 
 Jupyter Notebook: For exploration, documentation, and presentation.
